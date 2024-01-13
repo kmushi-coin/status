@@ -14,9 +14,6 @@ sites:
     check: "tcp-ping"
     url: electrumx.kmushicoin.co
     port: 36599
-  - name: PASARELA DE PAGO
-    url: https://us-central1-paydogalyir.cloudfunctions.net/main/ping
-    body: 'pong'
   - name: VPS 3
     check: "tcp-ping"
     url: ghos3.kmushicoin.co
