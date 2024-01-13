@@ -2,12 +2,38 @@ owner: kmushi-coin
 repo: status
 
 sites:
-  - name: Website
-    url: https://kmushicoin.co
+  - name: Website - KmushiPay
+    url: https://kmushicoin.co/api/ping
+    body: 'pong'
   - name: API - SEND
-    url: https://new.kmushicoin.co
+    url: https://new.kmushicoin.co/ping
+    body: 'pong'
   - name: Explorer
-    url: https://explorer.kmushicoin.co
+    url: https://explorer.kmushicoin.co/api
+  - name: Electrumx
+    check: "tcp-ping"
+    url: electrumx.kmushicoin.co
+    port: 36599
+  - name: PASARELA DE PAGO
+    url: https://main-emiaio3v2a-uc.a.run.app/ping
+    body: 'pong'
+  - name: VPS 3
+    check: "tcp-ping"
+    url: ghos3.kmushicoin.co
+    port: 36599
+  - name: VPS 4
+    check: "tcp-ping"
+    url: ghos4.kmushicoin.co
+    port: 36599
+  - name: VPS 5
+    check: "tcp-ping"
+    url: ghos5.kmushicoin.co
+    port: 36599
+  - name: VPS 6
+    check: "tcp-ping"
+    url: ghos6.kmushicoin.co
+    port: 36599
+  
 
 status-website:
   cname: status.kmushicoin.co
