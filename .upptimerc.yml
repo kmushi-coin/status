@@ -15,7 +15,7 @@ sites:
     url: electrumx.kmushicoin.co
     port: 36599
   - name: PASARELA DE PAGO
-    url: https://main-emiaio3v2a-uc.a.run.app/ping
+    url: https://us-central1-paydogalyir.cloudfunctions.net/main/ping
     body: 'pong'
   - name: VPS 3
     check: "tcp-ping"
