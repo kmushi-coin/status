@@ -22,19 +22,19 @@
     "url": "https://new.kmushicoin.co/ping",
     "icon": "https://icons.duckduckgo.com/ip3/new.kmushicoin.co.ico",
     "slug": "api-send",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1569,
-    "timeDay": 8544,
-    "timeWeek": 2338,
-    "timeMonth": 1569,
-    "timeYear": 1569,
+    "status": "up",
+    "uptime": "99.82%",
+    "uptimeDay": "98.67%",
+    "uptimeWeek": "99.81%",
+    "uptimeMonth": "99.82%",
+    "uptimeYear": "99.82%",
+    "time": 1483,
+    "timeDay": 5818,
+    "timeWeek": 2119,
+    "timeMonth": 1483,
+    "timeYear": 1483,
     "dailyMinutesDown": {
-      "2024-01-21": 0
+      "2024-01-21": 19
     }
   },
   {
