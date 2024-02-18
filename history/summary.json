@@ -136,19 +136,19 @@
     "url": "ghos6.kmushicoin.co",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "vps-6",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 114,
-    "timeDay": 108,
+    "status": "up",
+    "uptime": "99.69%",
+    "uptimeDay": "88.92%",
+    "uptimeWeek": "98.42%",
+    "uptimeMonth": "99.64%",
+    "uptimeYear": "99.69%",
+    "time": 113,
+    "timeDay": 100,
     "timeWeek": 99,
-    "timeMonth": 111,
-    "timeYear": 114,
+    "timeMonth": 110,
+    "timeYear": 113,
     "dailyMinutesDown": {
-      "2024-02-18": 0
+      "2024-02-18": 159
     }
   }
 ]
