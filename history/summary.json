@@ -47,18 +47,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/explorer.kmushicoin.co.ico",
     "slug": "explorer",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.90%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.90%",
+    "uptimeDay": "94.83%",
+    "uptimeWeek": "99.26%",
+    "uptimeMonth": "99.83%",
+    "uptimeYear": "99.90%",
     "time": 722,
     "timeDay": 710,
     "timeWeek": 742,
     "timeMonth": 768,
     "timeYear": 722,
     "dailyMinutesDown": {
-      "2024-03-04": 1
+      "2024-03-04": 74
     }
   },
   {
@@ -122,19 +122,19 @@
     "url": "ghos5.kmushicoin.co",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "vps-5",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.90%",
+    "uptimeDay": "94.93%",
+    "uptimeWeek": "99.28%",
+    "uptimeMonth": "99.83%",
+    "uptimeYear": "99.90%",
     "time": 118,
-    "timeDay": 96,
-    "timeWeek": 107,
-    "timeMonth": 111,
+    "timeDay": 105,
+    "timeWeek": 108,
+    "timeMonth": 112,
     "timeYear": 118,
     "dailyMinutesDown": {
-      "2024-03-04": 0
+      "2024-03-04": 73
     }
   },
   {
