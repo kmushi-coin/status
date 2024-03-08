@@ -47,10 +47,10 @@
     "url": "https://explorer.kmushicoin.co/api",
     "icon": "https://icons.duckduckgo.com/ip3/explorer.kmushicoin.co.ico",
     "slug": "explorer",
-    "status": "up",
+    "status": "down",
     "uptime": "99.90%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.22%",
+    "uptimeDay": "99.90%",
+    "uptimeWeek": "99.20%",
     "uptimeMonth": "99.82%",
     "uptimeYear": "99.90%",
     "time": 714,
@@ -59,6 +59,7 @@
     "timeMonth": 753,
     "timeYear": 714,
     "dailyMinutesDown": {
+      "2024-03-08": 1,
       "2024-03-04": 79
     }
   },
@@ -68,11 +69,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "electrumx",
     "status": "up",
-    "uptime": "99.60%",
+    "uptime": "99.61%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.60%",
+    "uptimeYear": "99.61%",
     "time": 124,
     "timeDay": 162,
     "timeWeek": 125,
@@ -123,10 +124,10 @@
     "url": "ghos5.kmushicoin.co",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "vps-5",
-    "status": "up",
+    "status": "down",
     "uptime": "99.91%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.28%",
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "99.27%",
     "uptimeMonth": "99.83%",
     "uptimeYear": "99.91%",
     "time": 119,
@@ -135,6 +136,7 @@
     "timeMonth": 117,
     "timeYear": 119,
     "dailyMinutesDown": {
+      "2024-03-08": 0,
       "2024-03-04": 73
     }
   },
