@@ -113,9 +113,9 @@
     "url": "ghos4.kmushicoin.co",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "vps-4",
-    "status": "up",
+    "status": "down",
     "uptime": "98.83%",
-    "uptimeDay": "0.01%",
+    "uptimeDay": "6.07%",
     "uptimeWeek": "82.34%",
     "uptimeMonth": "95.94%",
     "uptimeYear": "98.83%",
@@ -125,6 +125,7 @@
     "timeMonth": 116,
     "timeYear": 117,
     "dailyMinutesDown": {
+      "2024-04-28": 0,
       "2024-04-27": 1407,
       "2024-04-26": 373
     }
