@@ -34,7 +34,8 @@ sites:
 
 status-website:
   cname: status.kmushicoin.co
-  logoUrl: https://kmushicoin.co/img/favicon/favicon.ico
+  logoUrl: https://kmushicoin.co/img/favicon/android-chrome-512x512.png
+  favicon: https://kmushicoin.co/img/favicon/favicon.ico
   name: KTV Status
   introTitle: "Estado de **Kmushicoin** en tiempo real"
   theme: ocean
