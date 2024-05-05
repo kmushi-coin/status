@@ -34,12 +34,14 @@ sites:
 
 status-website:
   cname: status.kmushicoin.co
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
+  logoUrl: https://kmushicoin.co/img/favicon/favicon.ico
   name: KTV Status
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: Status Kmushicoin real time
+  introTitle: "Estado de **Kmushicoin** en tiempo real"
+  theme: ocean
   navbar:
     - title: Status
       href: /
+    - title: Telegram
+      href: https://t.me/KmushiCoin_Es
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
