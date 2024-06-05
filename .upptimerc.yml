@@ -10,10 +10,6 @@ sites:
     body: 'pong'
   - name: Explorer
     url: https://explorer.kmushicoin.co/api
-  - name: Electrumx
-    check: "tcp-ping"
-    url: electrumx.kmushicoin.co
-    port: 36599
   - name: VPS 3
     check: "tcp-ping"
     url: ghos3.kmushicoin.co
