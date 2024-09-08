@@ -55,7 +55,7 @@
     "url": "https://explorer.kmushicoin.co/api",
     "icon": "https://icons.duckduckgo.com/ip3/explorer.kmushicoin.co.ico",
     "slug": "explorer",
-    "status": "up",
+    "status": "down",
     "uptime": "99.34%",
     "uptimeDay": "67.18%",
     "uptimeWeek": "80.35%",
