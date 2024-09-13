@@ -82,9 +82,9 @@
     "url": "ghos3.kmushicoin.co",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "vps-3",
-    "status": "up",
+    "status": "down",
     "uptime": "99.74%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "97.89%",
     "uptimeYear": "99.74%",
@@ -94,6 +94,7 @@
     "timeMonth": 124,
     "timeYear": 123,
     "dailyMinutesDown": {
+      "2024-09-13": 0,
       "2024-09-03": 201,
       "2024-09-02": 722
     }
