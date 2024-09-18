@@ -1,7 +1,7 @@
 url: https://explorer.kmushicoin.co/api
-status: down
-code: 500
-responseTime: 13555
-lastUpdated: 2024-09-18T15:38:27.915Z
+status: up
+code: 200
+responseTime: 11970
+lastUpdated: 2024-09-18T15:44:20.995Z
 startTime: 2024-01-13T15:49:08.551Z
 generator: Upptime <https://github.com/upptime/upptime>
