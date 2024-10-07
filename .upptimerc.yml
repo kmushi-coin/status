@@ -14,10 +14,6 @@ sites:
     check: "tcp-ping"
     url: ghos2.kmushicoin.co
     port: 36599
-  - name: VPS 3
-    check: "tcp-ping"
-    url: ghos3.kmushicoin.co
-    port: 36599
   - name: VPS 4
     check: "tcp-ping"
     url: ghos4.kmushicoin.co
