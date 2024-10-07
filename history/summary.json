@@ -56,17 +56,17 @@
     "url": "https://explorer.kmushicoin.co/api",
     "icon": "https://icons.duckduckgo.com/ip3/explorer.kmushicoin.co.ico",
     "slug": "explorer",
-    "status": "up",
-    "uptime": "98.04%",
-    "uptimeDay": "95.02%",
-    "uptimeWeek": "92.81%",
-    "uptimeMonth": "82.75%",
-    "uptimeYear": "98.04%",
-    "time": 10683,
-    "timeDay": 1110,
-    "timeWeek": 9608,
-    "timeMonth": 16798,
-    "timeYear": 10683,
+    "status": "down",
+    "uptime": "98.05%",
+    "uptimeDay": "95.01%",
+    "uptimeWeek": "99.29%",
+    "uptimeMonth": "82.80%",
+    "uptimeYear": "98.05%",
+    "time": 10668,
+    "timeDay": 924,
+    "timeWeek": 1214,
+    "timeMonth": 16678,
+    "timeYear": 10668,
     "dailyMinutesDown": {
       "2024-10-07": 72,
       "2024-09-30": 809,
@@ -76,7 +76,7 @@
       "2024-09-26": 489,
       "2024-09-25": 1225,
       "2024-09-24": 1143,
-      "2024-09-23": 401
+      "2024-09-23": 379
     }
   },
   {
@@ -96,30 +96,6 @@
     "timeMonth": 102,
     "timeYear": 102,
     "dailyMinutesDown": {}
-  },
-  {
-    "name": "VPS 3",
-    "url": "ghos3.kmushicoin.co",
-    "icon": "https://icons.duckduckgo.com/ip3/null.ico",
-    "slug": "vps-3",
-    "status": "down",
-    "uptime": "99.38%",
-    "uptimeDay": "0.00%",
-    "uptimeWeek": "85.48%",
-    "uptimeMonth": "96.65%",
-    "uptimeYear": "99.38%",
-    "time": 122,
-    "timeDay": 0,
-    "timeWeek": 97,
-    "timeMonth": 119,
-    "timeYear": 122,
-    "dailyMinutesDown": {
-      "2024-10-07": 157,
-      "2024-10-06": 1306,
-      "2024-09-13": 5,
-      "2024-09-03": 201,
-      "2024-09-02": 722
-    }
   },
   {
     "name": "VPS 4",
