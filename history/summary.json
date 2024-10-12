@@ -56,17 +56,17 @@
     "url": "https://explorer.kmushicoin.co/api",
     "icon": "https://icons.duckduckgo.com/ip3/explorer.kmushicoin.co.ico",
     "slug": "explorer",
-    "status": "up",
-    "uptime": "98.12%",
-    "uptimeDay": "90.15%",
+    "status": "down",
+    "uptime": "98.13%",
+    "uptimeDay": "91.17%",
     "uptimeWeek": "97.50%",
-    "uptimeMonth": "83.16%",
-    "uptimeYear": "98.12%",
-    "time": 10393,
-    "timeDay": 4189,
-    "timeWeek": 3520,
-    "timeMonth": 15380,
-    "timeYear": 10393,
+    "uptimeMonth": "83.23%",
+    "uptimeYear": "98.13%",
+    "time": 10378,
+    "timeDay": 3833,
+    "timeWeek": 3429,
+    "timeMonth": 15626,
+    "timeYear": 10378,
     "dailyMinutesDown": {
       "2024-10-12": 124,
       "2024-10-11": 18,
@@ -80,7 +80,7 @@
       "2024-09-26": 489,
       "2024-09-25": 1225,
       "2024-09-24": 1143,
-      "2024-09-23": 40
+      "2024-09-23": 6
     }
   },
   {
