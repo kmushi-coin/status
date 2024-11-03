@@ -56,17 +56,17 @@
     "url": "https://explorer.kmushicoin.co/api",
     "icon": "https://icons.duckduckgo.com/ip3/explorer.kmushicoin.co.ico",
     "slug": "explorer",
-    "status": "up",
+    "status": "down",
     "uptime": "99.49%",
-    "uptimeDay": "91.30%",
+    "uptimeDay": "91.28%",
     "uptimeWeek": "90.01%",
-    "uptimeMonth": "95.04%",
+    "uptimeMonth": "95.07%",
     "uptimeYear": "99.49%",
-    "time": 10025,
-    "timeDay": 4323,
-    "timeWeek": 8371,
-    "timeMonth": 7857,
-    "timeYear": 10025,
+    "time": 10014,
+    "timeDay": 3999,
+    "timeWeek": 8280,
+    "timeMonth": 7825,
+    "timeYear": 10014,
     "dailyMinutesDown": {
       "2024-11-03": 125,
       "2024-11-02": 127,
@@ -83,7 +83,7 @@
       "2024-10-22": 18,
       "2024-10-21": 79,
       "2024-10-20": 7,
-      "2024-10-19": 230
+      "2024-10-19": 218
     }
   },
   {
@@ -93,7 +93,7 @@
     "slug": "nodo-2",
     "status": "down",
     "uptime": "47.02%",
-    "uptimeDay": "22.66%",
+    "uptimeDay": "22.24%",
     "uptimeWeek": "21.24%",
     "uptimeMonth": "47.02%",
     "uptimeYear": "47.02%",
@@ -103,7 +103,7 @@
     "timeMonth": 110,
     "timeYear": 110,
     "dailyMinutesDown": {
-      "2024-11-03": 1114,
+      "2024-11-03": 1120,
       "2024-11-01": 994,
       "2024-10-31": 1440,
       "2024-10-30": 1440,
