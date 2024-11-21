@@ -13,7 +13,7 @@
     "time": 440,
     "timeDay": 400,
     "timeWeek": 603,
-    "timeMonth": 500,
+    "timeMonth": 499,
     "timeYear": 440,
     "dailyMinutesDown": {
       "2024-09-12": 16,
@@ -37,7 +37,7 @@
     "time": 498,
     "timeDay": 353,
     "timeWeek": 375,
-    "timeMonth": 322,
+    "timeMonth": 324,
     "timeYear": 498,
     "dailyMinutesDown": {
       "2024-04-26": 1023,
@@ -56,16 +56,16 @@
     "url": "https://explorer.kmushicoin.co/api/v2/block-index/0",
     "icon": "https://icons.duckduckgo.com/ip3/explorer.kmushicoin.co.ico",
     "slug": "explorer",
-    "status": "up",
+    "status": "down",
     "uptime": "99.55%",
-    "uptimeDay": "98.52%",
-    "uptimeWeek": "95.73%",
-    "uptimeMonth": "95.34%",
+    "uptimeDay": "98.51%",
+    "uptimeWeek": "95.88%",
+    "uptimeMonth": "95.37%",
     "uptimeYear": "99.55%",
     "time": 9375,
     "timeDay": 417,
-    "timeWeek": 395,
-    "timeMonth": 6330,
+    "timeWeek": 397,
+    "timeMonth": 6342,
     "timeYear": 9375,
     "dailyMinutesDown": {
       "2024-11-21": 21,
@@ -89,7 +89,7 @@
       "2024-10-26": 23,
       "2024-10-25": 24,
       "2024-10-24": 100,
-      "2024-10-23": 139
+      "2024-10-23": 128
     }
   },
   {
@@ -98,11 +98,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "nodo-2",
     "status": "up",
-    "uptime": "60.59%",
+    "uptime": "60.82%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.84%",
-    "uptimeMonth": "51.64%",
-    "uptimeYear": "60.59%",
+    "uptimeMonth": "52.52%",
+    "uptimeYear": "60.82%",
     "time": 110,
     "timeDay": 106,
     "timeWeek": 112,
@@ -147,7 +147,7 @@
     "time": 122,
     "timeDay": 112,
     "timeWeek": 121,
-    "timeMonth": 116,
+    "timeMonth": 117,
     "timeYear": 122,
     "dailyMinutesDown": {
       "2024-10-07": 518,
@@ -171,7 +171,7 @@
     "time": 119,
     "timeDay": 112,
     "timeWeek": 122,
-    "timeMonth": 116,
+    "timeMonth": 117,
     "timeYear": 119,
     "dailyMinutesDown": {
       "2024-04-29": 360,
@@ -194,7 +194,7 @@
     "time": 125,
     "timeDay": 112,
     "timeWeek": 125,
-    "timeMonth": 132,
+    "timeMonth": 133,
     "timeYear": 125,
     "dailyMinutesDown": {
       "2024-05-31": 50,
@@ -216,7 +216,7 @@
     "time": 118,
     "timeDay": 112,
     "timeWeek": 120,
-    "timeMonth": 115,
+    "timeMonth": 116,
     "timeYear": 118,
     "dailyMinutesDown": {
       "2024-06-13": 6,
