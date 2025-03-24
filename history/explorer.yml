@@ -1,7 +1,7 @@
 url: https://explorer.kmushicoin.co/api/v2/block-index/0
-status: down
-code: 502
-responseTime: 175
-lastUpdated: 2025-03-24T13:50:46.048Z
+status: up
+code: 200
+responseTime: 249
+lastUpdated: 2025-03-24T13:56:39.147Z
 startTime: 2024-01-13T15:49:08.551Z
 generator: Upptime <https://github.com/upptime/upptime>
