@@ -26,19 +26,20 @@
     "url": "https://new.kmushicoin.co/ping",
     "icon": "https://icons.duckduckgo.com/ip3/new.kmushicoin.co.ico",
     "slug": "api-send",
-    "status": "down",
+    "status": "up",
     "uptime": "99.70%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "96.72%",
+    "uptimeWeek": "99.53%",
+    "uptimeMonth": "99.88%",
     "uptimeYear": "99.97%",
     "time": 528,
-    "timeDay": 194,
-    "timeWeek": 376,
-    "timeMonth": 485,
+    "timeDay": 265,
+    "timeWeek": 380,
+    "timeMonth": 483,
     "timeYear": 441,
     "dailyMinutesDown": {
-      "2025-04-28": 0,
+      "2025-04-29": 42,
+      "2025-04-28": 5,
       "2025-04-17": 6,
       "2025-02-24": 39,
       "2025-02-23": 38,
@@ -141,7 +142,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.52%",
+    "uptimeYear": "99.53%",
     "time": 117,
     "timeDay": 92,
     "timeWeek": 101,
@@ -149,8 +150,7 @@
     "timeYear": 118,
     "dailyMinutesDown": {
       "2025-03-08": 1271,
-      "2025-03-07": 868,
-      "2024-04-29": 360
+      "2025-03-07": 868
     }
   },
   {
