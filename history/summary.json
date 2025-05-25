@@ -52,9 +52,9 @@
     "url": "https://explorer.kmushicoin.co/api/v2/block-index/0",
     "icon": "https://icons.duckduckgo.com/ip3/explorer.kmushicoin.co.ico",
     "slug": "explorer",
-    "status": "up",
-    "uptime": "98.00%",
-    "uptimeDay": "99.68%",
+    "status": "down",
+    "uptime": "98.01%",
+    "uptimeDay": "99.67%",
     "uptimeWeek": "91.20%",
     "uptimeMonth": "82.16%",
     "uptimeYear": "97.28%",
@@ -113,7 +113,7 @@
       "2025-01-14": 26,
       "2025-01-13": 172,
       "2025-01-12": 341,
-      "2025-01-11": 26
+      "2025-01-11": 6
     }
   },
   {
