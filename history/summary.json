@@ -14,7 +14,7 @@
     "timeDay": 493,
     "timeWeek": 456,
     "timeMonth": 529,
-    "timeYear": 612,
+    "timeYear": 613,
     "dailyMinutesDown": {
       "2025-01-21": 17,
       "2024-09-12": 16,
@@ -36,7 +36,7 @@
     "timeDay": 304,
     "timeWeek": 439,
     "timeMonth": 983,
-    "timeYear": 500,
+    "timeYear": 501,
     "dailyMinutesDown": {
       "2025-05-04": 16,
       "2025-04-29": 42,
@@ -52,16 +52,16 @@
     "url": "https://explorer.kmushicoin.co/api/v2/block-index/0",
     "icon": "https://icons.duckduckgo.com/ip3/explorer.kmushicoin.co.ico",
     "slug": "explorer",
-    "status": "up",
-    "uptime": "97.72%",
-    "uptimeDay": "54.74%",
-    "uptimeWeek": "67.21%",
+    "status": "down",
+    "uptime": "97.73%",
+    "uptimeDay": "55.44%",
+    "uptimeWeek": "67.57%",
     "uptimeMonth": "74.44%",
     "uptimeYear": "96.85%",
-    "time": 6536,
+    "time": 6535,
     "timeDay": 2221,
-    "timeWeek": 2021,
-    "timeMonth": 2262,
+    "timeWeek": 1974,
+    "timeMonth": 2235,
     "timeYear": 7103,
     "dailyMinutesDown": {
       "2025-06-01": 628,
@@ -111,8 +111,7 @@
       "2025-01-31": 69,
       "2025-01-29": 29,
       "2025-01-24": 6,
-      "2025-01-22": 6,
-      "2025-01-21": 21
+      "2025-01-22": 6
     }
   },
   {
@@ -182,7 +181,7 @@
     "timeDay": 114,
     "timeWeek": 124,
     "timeMonth": 120,
-    "timeYear": 125,
+    "timeYear": 126,
     "dailyMinutesDown": {
       "2025-05-12": 229,
       "2025-05-11": 1440,
