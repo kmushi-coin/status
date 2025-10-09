@@ -67,7 +67,7 @@
     "slug": "explorer",
     "status": "down",
     "uptime": "91.98%",
-    "uptimeDay": "65.69%",
+    "uptimeDay": "64.65%",
     "uptimeWeek": "59.20%",
     "uptimeMonth": "60.60%",
     "uptimeYear": "86.06%",
@@ -77,7 +77,7 @@
     "timeMonth": 1762,
     "timeYear": 3276,
     "dailyMinutesDown": {
-      "2025-10-09": 0,
+      "2025-10-09": 15,
       "2025-10-08": 494,
       "2025-10-07": 170,
       "2025-10-06": 400,
