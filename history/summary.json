@@ -65,12 +65,12 @@
     "url": "https://explorer.kmushicoin.co/api/v2/block-index/0",
     "icon": "https://icons.duckduckgo.com/ip3/explorer.kmushicoin.co.ico",
     "slug": "explorer",
-    "status": "up",
-    "uptime": "91.70%",
-    "uptimeDay": "22.88%",
-    "uptimeWeek": "47.52%",
+    "status": "down",
+    "uptime": "91.80%",
+    "uptimeDay": "37.58%",
+    "uptimeWeek": "49.62%",
     "uptimeMonth": "48.66%",
-    "uptimeYear": "85.37%",
+    "uptimeYear": "85.54%",
     "time": 4011,
     "timeDay": 317,
     "timeWeek": 499,
@@ -178,8 +178,7 @@
       "2025-06-30": 738,
       "2025-06-29": 497,
       "2025-06-28": 701,
-      "2025-06-27": 700,
-      "2025-06-26": 761
+      "2025-06-27": 550
     }
   },
   {
@@ -188,7 +187,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "vps-3",
     "status": "up",
-    "uptime": "99.20%",
+    "uptime": "99.21%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "97.64%",
