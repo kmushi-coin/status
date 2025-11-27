@@ -11,9 +11,9 @@
     "uptimeMonth": "99.69%",
     "uptimeYear": "99.96%",
     "time": 674,
-    "timeDay": 391,
-    "timeWeek": 343,
-    "timeMonth": 360,
+    "timeDay": 476,
+    "timeWeek": 360,
+    "timeMonth": 363,
     "timeYear": 748,
     "dailyMinutesDown": {
       "2025-11-18": 134,
@@ -33,11 +33,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "95.96%",
     "uptimeYear": "98.27%",
-    "time": 821,
-    "timeDay": 287,
-    "timeWeek": 322,
-    "timeMonth": 1346,
-    "timeYear": 1069,
+    "time": 921,
+    "timeDay": 292,
+    "timeWeek": 320,
+    "timeMonth": 1345,
+    "timeYear": 1073,
     "dailyMinutesDown": {
       "2025-11-18": 139,
       "2025-11-04": 753,
@@ -61,8 +61,7 @@
       "2025-04-28": 5,
       "2025-04-17": 6,
       "2025-02-24": 39,
-      "2025-02-23": 38,
-      "2024-11-27": 47
+      "2025-02-23": 38
     }
   },
   {
@@ -70,18 +69,19 @@
     "url": "https://explorer.kmushicoin.co/api/v2/block-index/0",
     "icon": "https://icons.duckduckgo.com/ip3/explorer.kmushicoin.co.ico",
     "slug": "explorer",
-    "status": "up",
-    "uptime": "93.99%",
-    "uptimeDay": "43.29%",
-    "uptimeWeek": "62.30%",
-    "uptimeMonth": "60.47%",
-    "uptimeYear": "88.75%",
-    "time": 2509,
-    "timeDay": 436,
-    "timeWeek": 2464,
-    "timeMonth": 2609,
-    "timeYear": 1997,
+    "status": "down",
+    "uptime": "94.09%",
+    "uptimeDay": "92.57%",
+    "uptimeWeek": "67.10%",
+    "uptimeMonth": "61.51%",
+    "uptimeYear": "88.93%",
+    "time": 2500,
+    "timeDay": 1322,
+    "timeWeek": 1619,
+    "timeMonth": 2559,
+    "timeYear": 1998,
     "dailyMinutesDown": {
+      "2025-11-27": 0,
       "2025-11-26": 380,
       "2025-11-25": 818,
       "2025-11-23": 313,
@@ -168,8 +168,7 @@
       "2025-08-28": 1124,
       "2025-08-27": 160,
       "2025-08-26": 877,
-      "2025-08-25": 734,
-      "2025-08-24": 784
+      "2025-08-25": 589
     }
   },
   {
@@ -184,8 +183,8 @@
     "uptimeMonth": "96.28%",
     "uptimeYear": "98.81%",
     "time": 119,
-    "timeDay": 93,
-    "timeWeek": 111,
+    "timeDay": 91,
+    "timeWeek": 108,
     "timeMonth": 113,
     "timeYear": 118,
     "dailyMinutesDown": {
@@ -207,16 +206,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "vps-4",
     "status": "up",
-    "uptime": "98.24%",
+    "uptime": "98.25%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "96.28%",
     "uptimeYear": "97.36%",
     "time": 118,
-    "timeDay": 90,
-    "timeWeek": 110,
+    "timeDay": 91,
+    "timeWeek": 108,
     "timeMonth": 111,
-    "timeYear": 118,
+    "timeYear": 117,
     "dailyMinutesDown": {
       "2025-11-04": 753,
       "2025-11-03": 876,
@@ -244,10 +243,10 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "96.13%",
-    "uptimeYear": "96.40%",
+    "uptimeYear": "96.41%",
     "time": 127,
-    "timeDay": 104,
-    "timeWeek": 130,
+    "timeDay": 102,
+    "timeWeek": 128,
     "timeMonth": 130,
     "timeYear": 126,
     "dailyMinutesDown": {
@@ -273,8 +272,7 @@
       "2025-05-08": 1440,
       "2025-05-07": 939,
       "2025-03-08": 1271,
-      "2025-03-07": 867,
-      "2024-11-27": 47
+      "2025-03-07": 867
     }
   },
   {
@@ -289,8 +287,8 @@
     "uptimeMonth": "96.29%",
     "uptimeYear": "97.35%",
     "time": 117,
-    "timeDay": 91,
-    "timeWeek": 110,
+    "timeDay": 90,
+    "timeWeek": 108,
     "timeMonth": 110,
     "timeYear": 117,
     "dailyMinutesDown": {
