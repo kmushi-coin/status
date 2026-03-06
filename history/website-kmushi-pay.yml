@@ -1,7 +1,7 @@
 url: https://kmushicoin.co/api/ping
-status: up
-code: 200
-responseTime: 466
-lastUpdated: 2026-03-05T23:44:23.746Z
+status: down
+code: 522
+responseTime: 19535
+lastUpdated: 2026-03-06T07:27:14.957Z
 startTime: 2024-01-13T16:20:21.543Z
 generator: Upptime <https://github.com/upptime/upptime>
