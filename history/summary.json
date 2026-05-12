@@ -12,9 +12,9 @@
     "uptimeYear": "98.88%",
     "time": 965,
     "timeDay": 242,
-    "timeWeek": 311,
-    "timeMonth": 367,
-    "timeYear": 1009,
+    "timeWeek": 225,
+    "timeMonth": 360,
+    "timeYear": 1010,
     "dailyMinutesDown": {
       "2026-03-06": 28,
       "2026-01-21": 1248,
@@ -41,9 +41,9 @@
     "uptimeYear": "97.80%",
     "time": 980,
     "timeDay": 273,
-    "timeWeek": 307,
-    "timeMonth": 339,
-    "timeYear": 992,
+    "timeWeek": 311,
+    "timeMonth": 336,
+    "timeYear": 994,
     "dailyMinutesDown": {
       "2026-03-03": 37,
       "2026-01-21": 1248,
@@ -72,16 +72,16 @@
     "url": "https://explorer.kmushicoin.co/api/v2/block-index/0",
     "icon": "https://icons.duckduckgo.com/ip3/explorer.kmushicoin.co.ico",
     "slug": "explorer",
-    "status": "up",
+    "status": "down",
     "uptime": "97.15%",
-    "uptimeDay": "45.96%",
+    "uptimeDay": "45.95%",
     "uptimeWeek": "78.20%",
     "uptimeMonth": "63.74%",
-    "uptimeYear": "93.35%",
+    "uptimeYear": "93.36%",
     "time": 2073,
-    "timeDay": 5693,
-    "timeWeek": 2547,
-    "timeMonth": 2298,
+    "timeDay": 4619,
+    "timeWeek": 2549,
+    "timeMonth": 2287,
     "timeYear": 2249,
     "dailyMinutesDown": {
       "2026-05-12": 767,
@@ -149,7 +149,7 @@
       "2026-01-28": 471,
       "2026-01-27": 932,
       "2026-01-26": 1350,
-      "2026-01-25": 380
+      "2026-01-25": 333
     }
   },
   {
@@ -165,8 +165,8 @@
     "uptimeYear": "97.61%",
     "time": 119,
     "timeDay": 92,
-    "timeWeek": 108,
-    "timeMonth": 125,
+    "timeWeek": 111,
+    "timeMonth": 124,
     "timeYear": 120,
     "dailyMinutesDown": {
       "2026-03-19": 40,
@@ -201,7 +201,7 @@
     "uptimeYear": "98.59%",
     "time": 119,
     "timeDay": 93,
-    "timeWeek": 108,
+    "timeWeek": 111,
     "timeMonth": 125,
     "timeYear": 120,
     "dailyMinutesDown": {
@@ -229,8 +229,8 @@
     "uptimeYear": "97.55%",
     "time": 129,
     "timeDay": 98,
-    "timeWeek": 123,
-    "timeMonth": 148,
+    "timeWeek": 127,
+    "timeMonth": 147,
     "timeYear": 132,
     "dailyMinutesDown": {
       "2026-05-11": 224,
@@ -268,7 +268,7 @@
     "uptimeYear": "98.58%",
     "time": 118,
     "timeDay": 93,
-    "timeWeek": 108,
+    "timeWeek": 111,
     "timeMonth": 125,
     "timeYear": 119,
     "dailyMinutesDown": {
